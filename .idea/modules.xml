@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayBox/ArrayBox.iml" filepath="$PROJECT_DIR$/ArrayBox/ArrayBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BufferAndBuilderAndReg/BufferAndBuilderAndReg.iml" filepath="$PROJECT_DIR$/BufferAndBuilderAndReg/BufferAndBuilderAndReg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GC/GC.iml" filepath="$PROJECT_DIR$/GC/GC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayBox/Modified.iml" filepath="$PROJECT_DIR$/ArrayBox/Modified.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestList/TestList.iml" filepath="$PROJECT_DIR$/TestList/TestList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSet/TestSet.iml" filepath="$PROJECT_DIR$/TestSet/TestSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThrowAble/TestThrowAble.iml" filepath="$PROJECT_DIR$/TestThrowAble/TestThrowAble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilClass/UtilClass.iml" filepath="$PROJECT_DIR$/UtilClass/UtilClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank/bank.iml" filepath="$PROJECT_DIR$/bank/bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calc/calc.iml" filepath="$PROJECT_DIR$/calc/calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/duyi.iml" filepath="$PROJECT_DIR$/.idea/duyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic/dynamic.iml" filepath="$PROJECT_DIR$/dynamic/dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interClass/interClass.iml" filepath="$PROJECT_DIR$/interClass/interClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkBox/linkBox.iml" filepath="$PROJECT_DIR$/linkBox/linkBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modified/modified.iml" filepath="$PROJECT_DIR$/modified/modified.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modifiedStatic/modifiedStatic.iml" filepath="$PROJECT_DIR$/modifiedStatic/modifiedStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realtionDemo/realtionDemo.iml" filepath="$PROJECT_DIR$/realtionDemo/realtionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletonProject/singletonProject.iml" filepath="$PROJECT_DIR$/singletonProject/singletonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/split/split.iml" filepath="$PROJECT_DIR$/split/split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testAbstract/testAbstract.iml" filepath="$PROJECT_DIR$/testAbstract/testAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testString/testString.iml" filepath="$PROJECT_DIR$/testString/testString.iml" />
+    </modules>
+  </component>
+</project>
