@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayBox/Modified.iml" filepath="$PROJECT_DIR$/ArrayBox/Modified.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestList/TestList.iml" filepath="$PROJECT_DIR$/TestList/TestList.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestSet/TestSet.iml" filepath="$PROJECT_DIR$/TestSet/TestSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSet/TestStream.iml" filepath="$PROJECT_DIR$/TestSet/TestStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestThrowAble/TestThrowAble.iml" filepath="$PROJECT_DIR$/TestThrowAble/TestThrowAble.iml" />
       <module fileurl="file://$PROJECT_DIR$/UtilClass/UtilClass.iml" filepath="$PROJECT_DIR$/UtilClass/UtilClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/bank/bank.iml" filepath="$PROJECT_DIR$/bank/bank.iml" />
@@ -25,7 +26,10 @@
       <module fileurl="file://$PROJECT_DIR$/singletonProject/singletonProject.iml" filepath="$PROJECT_DIR$/singletonProject/singletonProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/split/split.iml" filepath="$PROJECT_DIR$/split/split.iml" />
       <module fileurl="file://$PROJECT_DIR$/testAbstract/testAbstract.iml" filepath="$PROJECT_DIR$/testAbstract/testAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testFile/testFile.iml" filepath="$PROJECT_DIR$/testFile/testFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testStream/testStream.iml" filepath="$PROJECT_DIR$/testStream/testStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/testString/testString.iml" filepath="$PROJECT_DIR$/testString/testString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testFile/testStrream.iml" filepath="$PROJECT_DIR$/testFile/testStrream.iml" />
     </modules>
   </component>
 </project>
